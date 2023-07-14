@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junaid Saleem 🏄‍♂️</h1>
-<h3 align="center">A passionate and results-driven full-stack developer with expertise in modern technologies. I love creating remarkable digital experiences and making a positive impact through impactful projects.</h3>
+<h3 align="center">A passionate and results-driven full-stack developer with expertise in modern technologies. My journey in the world of web development has equipped me with proficiency in front-end and back-end technologies.<br />  I love creating remarkable digital experiences and making a positive impact through impactful projects. I thrive in dynamic environments and enjoy tackling complex challenges that push the boundaries of innovation.<br /><br />Beyond coding, I believe in continuous learning and staying up-to-date with the latest industry trends. I'm dedicated to writing clean and maintainable code that adheres to best practices.
+</h3>
 
 <p align="left">
       <a href="https://github.com/junaidsaleem10144?tab=followers">
