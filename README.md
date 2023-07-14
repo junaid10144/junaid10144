@@ -42,3 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsaleem10144&" alt="junaidsaleem10144" /></p>
 
+### 👀 Visitor Info
+<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
