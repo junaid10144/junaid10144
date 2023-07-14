@@ -10,11 +10,11 @@
    </p>
 
 
-<p align="left">  </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaidsaleem10144" alt="junaidsaleem10144" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/junaid10144" target="blank"><img src="https://img.shields.io/twitter/follow/junaid10144?logo=twitter&style=for-the-badge" alt="junaid10144" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/junaid10144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaid10144" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/junaid-saleem-10144alj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid-saleem-10144alj" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22225119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22225119" height="30" width="40" /></a>
+</p>
 
 - 🌱 I’m currently learning **Azure, Kafka, Cassendra, ...**
 
