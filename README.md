@@ -3,20 +3,20 @@
 </h3>
 
 <p align="left">
-      <a href="https://github.com/junaidsaleem10144?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/junaidsaleem10144?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/junaidsaleem10144?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/junaidsaleem10144?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/junaid10144?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/junaid10144?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/junaid10144?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/junaid10144?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://twitter.com/junaid10144" target="blank"><img src="https://img.shields.io/twitter/follow/junaid10144?logo=twitter&style=for-the-badge" alt="junaid10144" /></a> 
-   <img src="https://komarev.com/ghpvc/?username=junaidsaleem10144&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsaleem10144" />
+   <img src="https://komarev.com/ghpvc/?username=junaid10144&label=Profile%20views&color=0e75b6&style=flat" alt="junaid10144" />
    </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaidsaleem10144" alt="junaidsaleem10144" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid10144" alt="junaid10144" /></a> </p>
 
 
 - 🌱 I’m currently learning **Azure, Kafka, Cassendra, ...**
 
-- 👨‍💻 All of my projects are available at [https://junaidsaleem.vercel.app/](https://junaidsaleem.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://junaidsaleem.me/](https://junaidsaleem.me/)
 
 - 💬 Ask me about **React, NodeJS, NextJS**
 
@@ -27,7 +27,7 @@
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/junaid10144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaid10144" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/junaid-saleem-10144alj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid-saleem-10144alj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/junaid10144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid10144" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22225119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22225119" height="30" width="40" /></a>
 </p>
 
@@ -39,8 +39,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidsaleem10144&show_icons=true&locale=en&layout=compact" alt="junaidsaleem10144" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid10144&show_icons=true&locale=en&layout=compact" alt="junaid10144" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaidsaleem10144&show_icons=true&locale=en" alt="junaidsaleem10144" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaid10144&show_icons=true&locale=en" alt="junaid10144" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsaleem10144&" alt="junaidsaleem10144" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid10144&" alt="junaid10144" /></p>
