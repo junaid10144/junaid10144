@@ -7,7 +7,7 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/junaid10144?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/junaid10144?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/junaid10144?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://twitter.com/junaid10144" target="blank"><img src="https://img.shields.io/twitter/follow/junaid10144?logo=twitter&style=for-the-badge" alt="junaid10144" /></a> 
+  <a href="https://twitter.com/junaid10144" target="blank"><img src="https://img.shields.io/twitter/follow/junaid10144?logo=twitter&style=for-the-badge" alt="junaid10144" title="Follow me on Twitter" /></a> 
    <img src="https://komarev.com/ghpvc/?username=junaid10144&label=Profile%20views&color=0e75b6&style=flat" alt="junaid10144" />
    </p>
 
