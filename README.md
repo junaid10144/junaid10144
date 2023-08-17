@@ -26,7 +26,7 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/junaid10144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/junaid10144" target="blank"><img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" title="Twitter" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/junaid10144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22225119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" title="Stack Overflow" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://www.credly.com/users/junaid10144" target="blank"><img align="center" src="https://images.credly.com/size/100x100/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" title="Credly" alt="credly" height="30" width="40" /></a>      
