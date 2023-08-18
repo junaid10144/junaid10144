@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **junaid.saleem.10144@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19gBx5dAl4_iG-eVMf_q9AotianWD4TvU/view)
-
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/junaid10144" target="blank"><img align="center" src="https://cdn.punchng.com/wp-content/uploads/2023/07/24084806/Twitter-new-logo.jpeg" title="Twitter" alt="twitter" height="30" width="40" /></a>
