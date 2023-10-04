@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://junaidsaleem.me/](https://junaidsaleem.me/)
 
-- 💬 Ask me about **React, NodeJS, NextJS, Angular**
+- 💬 Ask me about **Angular, React, NodeJS, NextJS**
 
 - 📫 How to reach me **junaid.saleem.10144@gmail.com**
 
