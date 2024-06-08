@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://junaidsaleem.me/](https://junaidsaleem.me/)
 
-- 💬 Ask me about **Angular, NextJS, NodeJS, Django**
+- 💬 Ask me about **Angular, NextJS, NodeJS, Django, ASP.net**
 
 - 📫 How to reach me **junaid.saleem.10144@gmail.com**
 
