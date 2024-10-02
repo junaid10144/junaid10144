@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **Azure, Kafka, Cassendra, ...**
 
-- 👨‍💻 All of my projects are available at [https://junaidsaleem.me/](https://junaidsaleem.me/)
+- 👨‍💻 All of my projects are available at [https://junaidsaleem.tech/](https://junaidsaleem.tech/)
 
 - 💬 Ask me about **Angular, NextJS, NodeJS, Django, ASP.net**
 
-- 📫 How to reach me **junaid.saleem.10144@gmail.com**
+- 📫 How to reach me **software.engineer@junaidsaleem.tech**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
